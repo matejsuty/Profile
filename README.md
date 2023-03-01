@@ -11,6 +11,8 @@ Coding projects &darr;
 
 Learning projects: https://github.com/matejsuty/learning-projects
 
+Weather App: https://github.com/matejsuty/weather-app
+
 Codewars: https://www.codewars.com/users/matejsuty
 
 Hackerrank: https://www.hackerrank.com/sutymatej
