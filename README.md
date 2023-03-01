@@ -11,7 +11,7 @@ Coding projects &darr;
 
 Learning projects: https://github.com/matejsuty/learning-projects
 
-Weather App: https://github.com/matejsuty/weather-app
+React Weather App: https://github.com/matejsuty/weather-app
 
 Codewars: https://www.codewars.com/users/matejsuty
 
