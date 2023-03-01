@@ -9,7 +9,7 @@ Email: sutymatej@gmail.com
 
 Coding projects &darr;
 
-Learning projects: https://github.com/matejsuty/Learning-projects
+Learning projects: https://github.com/matejsuty/learning-projects
 
 LeetCode: https://leetcode.com/matejsuty
 
