@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/matejsuty
 Email: sutymatej@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Learning projects: https://github.com/matejsuty/Learning-projects
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/matejsuty
@@ -16,8 +16,3 @@ LeetCode: https://leetcode.com/matejsuty
 Hackerrank: https://www.hackerrank.com/sutymatej
 
 Codewars: https://www.codewars.com/users/matejsuty
-
-## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
-Upload your solutions as files into interview-tests/ directory
-
-
