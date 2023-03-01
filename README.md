@@ -11,8 +11,6 @@ Coding projects &darr;
 
 Learning projects: https://github.com/matejsuty/learning-projects
 
-LeetCode: https://leetcode.com/matejsuty
+Codewars: https://www.codewars.com/users/matejsuty
 
 Hackerrank: https://www.hackerrank.com/sutymatej
-
-Codewars: https://www.codewars.com/users/matejsuty
